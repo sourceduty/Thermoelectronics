@@ -54,6 +54,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 ### Related Links
 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
