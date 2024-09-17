@@ -13,6 +13,15 @@ A key advantage of thermotronics is the potential for energy-efficient systems t
 The framework of thermotronics can extend to a broad array of applications, ranging from thermal sensors and actuators to heat-based computing systems. The principles underlying thermotronics can also lead to innovations in areas like wearable technologies, smart materials, and energy harvesting devices. As research progresses, this interdisciplinary field will likely evolve, bridging the gap between thermal energy and electronics and providing new methods for processing information, controlling systems, or generating energy with minimal environmental impact.
 
 #
+### Custom GPT
+
+[Thermotronics](https://chatgpt.com/g/g-AUEUDYzH5-thermotronics) assists with topics related to the emerging field of thermotronics, which involves using temperature differentials to control electronic or mechanical systems. Unlike traditional electronics, which rely on electrical currents, thermotronic systems convert thermal energy into control signals or power outputs. By integrating thermodynamic principles with electronics and materials science, these systems can perform functions like switching, amplification, or even computation using heat as the driving force.
+
+A major focus of this GPT is on the materials and components that enable thermotronic systems to function. Thermally responsive materials, such as thermoelectric materials or shape-memory alloys, play a crucial role by changing their properties based on temperature variations. This allows them to act as thermal switches or logic gates in a circuit, potentially leading to energy-efficient systems that can operate using available heat from the environment or industrial processes. This capability makes thermotronics particularly valuable for applications in extreme conditions, where traditional electronics may fail or be inefficient.
+
+Thermotronics also offers a pathway to sustainable energy solutions, especially in environments where electrical power is limited or unreliable. By leveraging naturally occurring heat sources, thermotronic devices could operate autonomously, making them ideal for use in remote areas, space exploration, or industrial monitoring. This custom GPT is well-suited to explore the principles, applications, and innovations within thermotronics, providing insights into how heat can be used to control and power systems in novel ways.
+
+#
 ### Example of Thermotronics
 
 Consider a simple example of a thermotronic device: a heat-sensitive switch that controls the flow of electricity in a circuit. In this example, the switch utilizes a thermistor, a material whose resistance changes based on temperature. When the ambient temperature rises above a certain threshold, the resistance in the thermistor decreases, allowing current to flow through the circuit and power an electronic device, such as a fan or cooling system. Conversely, when the temperature drops, the thermistor’s resistance increases, cutting off the current and turning the device off. This simple heat-triggered mechanism could be used in energy-saving systems, ensuring that devices only activate when necessary.
