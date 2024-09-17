@@ -56,6 +56,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Neurorobotic Simulator](https://github.com/sourceduty/Neurorobotic_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
