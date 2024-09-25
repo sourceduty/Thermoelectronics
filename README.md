@@ -51,6 +51,10 @@ Beyond initial research and peer review, further validation requires ongoing stu
 To contribute to the validation of new scientific subjects, one typically needs to be a student or professor actively engaged in academic or research settings. Professors play a crucial role by leading research projects, conducting experiments, and publishing their findings in scientific journals, which are then subject to peer review. Students, often working under the guidance of professors, can also participate in these research efforts, gaining hands-on experience in the scientific process. Both students and professors are involved in attending and presenting at conferences and symposiums, where they share insights, challenge theories, and collaborate with peers. This academic environment fosters the rigorous scrutiny, discussion, and collaboration necessary for validating new scientific discoveries and integrating them into the broader scientific community.
 
 #
+
+![Temperature](https://github.com/user-attachments/assets/deca4a5a-4f09-429c-9773-fef7ce475967)
+
+#
 ### Related Links
 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
